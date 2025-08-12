@@ -1,0 +1,22 @@
+.DS_Store
+~ # Ignores Excel lock files
+*.tmp
+.DS_Store
+~.xlsx
+*.twb
+.DS_Store
+~.xlsx
+*.twb
+.DS_Store
+~.xlsx
+*.twb
+.DS_Store
+*.xlsx
+*.twbx
+*.pdf
+*.csv
+.DS_Store
+*.xlsx
+*.twbx
+*.pdf
+*.csv
