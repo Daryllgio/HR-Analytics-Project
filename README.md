@@ -35,8 +35,10 @@ How to View the Project
 
 Screenshots: View the images below for a quick look at the dashboards created in Tableau and Excel.
 
-Tableau Dashboard Preview
+Tableau Dashboard Preview:
+
 <img width="1295" height="730" alt="Screenshot 2025-08-11 at 22 43 58" src="https://github.com/user-attachments/assets/226634b7-16a7-4786-9bef-4a6efc555728" />
 
-Excel Dashboard Preview
+Excel Dashboard Preview:
+
 <img width="1164" height="587" alt="Screenshot 2025-08-10 at 12 23 17" src="https://github.com/user-attachments/assets/a9930c6b-67df-49e8-845b-99c1b42eef15" />
